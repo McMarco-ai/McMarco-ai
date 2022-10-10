@@ -1,1 +1,1 @@
-Im a junior web developer and ui/ux designer currently finishing my graduation in TSIW at ESMAD.
+Im a junior web developer and ui/ux designer  graduated in TSIW at ESMAD.
